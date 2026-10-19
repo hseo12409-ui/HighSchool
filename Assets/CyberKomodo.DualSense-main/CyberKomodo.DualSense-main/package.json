@@ -1,0 +1,21 @@
+{
+    "name": "com.cyberkomodo.dualsense",
+    "version": "1.0.0",
+    "displayName": "CyberKomodo.DualSense",
+    "description": "DualSense controller integration for Unity with support for USB and Bluetooth.",
+    "dependencies": {
+        "com.unity.inputsystem": "1.4.0"
+    },
+    "keywords": [
+        "DualSense",
+        "PS5",
+        "DS5",
+        "PlayStation",
+        "Controller",
+        "Gamepad"
+    ],
+    "author": {
+        "name": "Kasuromi",
+        "email": "kas@cyberkomodo.com"
+    }
+}
